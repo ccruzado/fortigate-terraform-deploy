@@ -6,7 +6,7 @@ on:
 jobs:
   
   tf- ftg-ha-plan:
-    name: tf- ftg-ha-plan
+    name: tf-ftg-ha-plan
     runs-on: ubuntu-latest
     env: 
       AWS_DEFAULT_REGION: "us-east-1"
