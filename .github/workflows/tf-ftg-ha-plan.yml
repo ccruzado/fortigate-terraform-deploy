@@ -1,11 +1,11 @@
-name: tf- ftg-ha-plan
+name: tf-ftg-ha-plan
 
 on: 
   workflow_dispatch:
 
 jobs:
   
-  tf- ftg-ha-plan:
+  tf-ftg-ha-plan:
     name: tf-ftg-ha-plan
     runs-on: ubuntu-latest
     env: 
